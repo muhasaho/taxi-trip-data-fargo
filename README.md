@@ -19,3 +19,6 @@ The [data.json](https://raw.githubusercontent.com/muhasaho/taxi-trip-data-fargo/
     "utcTime": "2013-01-03T07:33:19.089Z"   //pickup time in UTC
 }
 ```
+
+###License
+MIT. See [License](https://github.com/muhasaho/taxi-trip-data-fargo/blob/master/LICENSE)
